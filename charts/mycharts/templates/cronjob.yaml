@@ -1,4 +1,3 @@
-
 apiVersion: {{ template "cronjob.apiVersion" . }}
 kind: CronJob
 metadata:
